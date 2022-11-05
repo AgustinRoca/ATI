@@ -1,0 +1,11 @@
+Análisis y Tratamiento de Imágenes
+
+
+
+Nombre       Ancho     Alto
+
+GIRL.RAW     389       164
+BARCO.RAW    290       207
+LENA.RAW     256       256
+GIRL2.RAW    256       256
+FRACTAL.RAW  200       200
